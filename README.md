@@ -40,10 +40,16 @@ Certifications & Languages
 Certifications: MS-CIT
 
 
-Languages Known: English, Marathi, Hindi
+Languages Known:
 
 
-Interests: Pine Trading Indicator Development, Technical Analysis, AI, Cybersecurity
+English, Marathi, Hindi
+
+
+Interests:
+
+
+Pine Trading Indicator Development, Technical Analysis, AI, Cybersecurity
 
 
 Show Message
