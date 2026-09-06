@@ -3,17 +3,22 @@ Python Programmer | AI Tools & Prompting | Basic Cybersecurity
 
 📧 pkamble1810@gmail.com | 📞 8459367274
 
+
 📍 Maner mala Unchgaon, Karvir, Kolhapur
+
 /br
 Summary
+
 /br
 Motivated and hardworking individual with a strong interest in technology, AI, and cybersecurity. A quick learner with good problem-solving and teamwork skills, always eager to learn new skills and contribute to meaningful work.
 /br
 Technical Skills
+
 /br
 Python Programming AI Tools & Prompting Basic Cybersecurity Code Scanner & Bug Finder Technical Analysis Project Management Problem Solving
 /br
 Experience
+
 /br
 Back Office Executive - Maharashtra Traders and Engineers
 Shiroli MIDC Kolhapur | 1.5 Years
